@@ -1,0 +1,117 @@
+[submodule "netfabb-basic"]
+	path = netfabb-basic
+	url = ssh://aur@aur4.archlinux.org/netfabb-basic.git
+[submodule "backports-patched"]
+	path = backports-patched
+	url = ssh://aur@aur4.archlinux.org/backports-patched.git
+[submodule "brother-dcpj125"]
+	path = brother-dcpj125
+	url = ssh://aur@aur4.archlinux.org/brother-dcpj125.git
+[submodule "changeling"]
+	path = changeling
+	url = ssh://aur@aur4.archlinux.org/changeling.git
+[submodule "e4rat"]
+	path = e4rat
+	url = ssh://aur@aur4.archlinux.org/e4rat.git
+[submodule "earlyoom-git"]
+	path = earlyoom-git
+	url = ssh://aur@aur4.archlinux.org/earlyoom-git.git
+[submodule "firefox-nightly-i18n"]
+	path = firefox-nightly-i18n
+	url = ssh://aur@aur4.archlinux.org/firefox-nightly-i18n.git
+[submodule "gputest"]
+	path = gputest
+	url = ssh://aur@aur4.archlinux.org/gputest.git
+[submodule "kicad-library-git"]
+	path = kicad-library-git
+	url = ssh://aur@aur4.archlinux.org/kicad-library-git.git
+[submodule "kmscube-git"]
+	path = kmscube-git
+	url = ssh://aur@aur4.archlinux.org/kmscube-git.git
+[submodule "oregano"]
+	path = oregano
+	url = ssh://aur@aur4.archlinux.org/oregano.git
+[submodule "osmocombb-git"]
+	path = osmocombb-git
+	url = ssh://aur@aur4.archlinux.org/osmocombb-git.git
+[submodule "pacman-cage"]
+	path = pacman-cage
+	url = ssh://aur@aur4.archlinux.org/pacman-cage.git
+[submodule "perl-alien-wxwidgets"]
+	path = perl-alien-wxwidgets
+	url = ssh://aur@aur4.archlinux.org/perl-alien-wxwidgets.git
+[submodule "perl-boost-geometry-utils"]
+	path = perl-boost-geometry-utils
+	url = ssh://aur@aur4.archlinux.org/perl-boost-geometry-utils.git
+[submodule "perl-constant-defer"]
+	path = perl-constant-defer
+	url = ssh://aur@aur4.archlinux.org/perl-constant-defer.git
+[submodule "perl-extutils-cppguess"]
+	path = perl-extutils-cppguess
+	url = ssh://aur@aur4.archlinux.org/perl-extutils-cppguess.git
+[submodule "perl-extutils-makemaker-aur"]
+	path = perl-extutils-makemaker-aur
+	url = ssh://aur@aur4.archlinux.org/perl-extutils-makemaker-aur.git
+[submodule "perl-extutils-parsexs-aur"]
+	path = perl-extutils-parsexs-aur
+	url = ssh://aur@aur4.archlinux.org/perl-extutils-parsexs-aur.git
+[submodule "perl-extutils-typemaps-default"]
+	path = perl-extutils-typemaps-default
+	url = ssh://aur@aur4.archlinux.org/perl-extutils-typemaps-default.git
+[submodule "perl-math-clipper"]
+	path = perl-math-clipper
+	url = ssh://aur@aur4.archlinux.org/perl-math-clipper.git
+[submodule "perl-math-convexhull"]
+	path = perl-math-convexhull
+	url = ssh://aur@aur4.archlinux.org/perl-math-convexhull.git
+[submodule "perl-math-convexhull-monotonechain"]
+	path = perl-math-convexhull-monotonechain
+	url = ssh://aur@aur4.archlinux.org/perl-math-convexhull-monotonechain.git
+[submodule "perl-math-geometry-voronoi"]
+	path = perl-math-geometry-voronoi
+	url = ssh://aur@aur4.archlinux.org/perl-math-geometry-voronoi.git
+[submodule "perl-math-libm"]
+	path = perl-math-libm
+	url = ssh://aur@aur4.archlinux.org/perl-math-libm.git
+[submodule "perl-math-planepath"]
+	path = perl-math-planepath
+	url = ssh://aur@aur4.archlinux.org/perl-math-planepath.git
+[submodule "perl-module-build-withxspp"]
+	path = perl-module-build-withxspp
+	url = ssh://aur@aur4.archlinux.org/perl-module-build-withxspp.git
+[submodule "perl-opengl"]
+	path = perl-opengl
+	url = ssh://aur@aur4.archlinux.org/perl-opengl.git
+[submodule "perl-threads-aur"]
+	path = perl-threads-aur
+	url = ssh://aur@aur4.archlinux.org/perl-threads-aur.git
+[submodule "perl-wx-glcanvas"]
+	path = perl-wx-glcanvas
+	url = ssh://aur@aur4.archlinux.org/perl-wx-glcanvas.git
+[submodule "perl-xml-sax-expatxs"]
+	path = perl-xml-sax-expatxs
+	url = ssh://aur@aur4.archlinux.org/perl-xml-sax-expatxs.git
+[submodule "python-powerline"]
+	path = python-powerline
+	url = ssh://aur@aur4.archlinux.org/python-powerline.git
+[submodule "python-pylibftdi"]
+	path = python-pylibftdi
+	url = ssh://aur@aur4.archlinux.org/python-pylibftdi.git
+[submodule "python2-gtkglext"]
+	path = python2-gtkglext
+	url = ssh://aur@aur4.archlinux.org/python2-gtkglext.git
+[submodule "qt5-wayland-git"]
+	path = qt5-wayland-git
+	url = ssh://aur@aur4.archlinux.org/qt5-wayland-git.git
+[submodule "sdr-j-dabreceiver"]
+	path = sdr-j-dabreceiver
+	url = ssh://aur@aur4.archlinux.org/sdr-j-dabreceiver.git
+[submodule "slic3r-git"]
+	path = slic3r-git
+	url = ssh://aur@aur4.archlinux.org/slic3r-git.git
+[submodule "vsprog-git"]
+	path = vsprog-git
+	url = ssh://aur@aur4.archlinux.org/vsprog-git.git
+[submodule "xsendkey"]
+	path = xsendkey
+	url = ssh://aur@aur4.archlinux.org/xsendkey.git
